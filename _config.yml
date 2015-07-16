@@ -69,6 +69,6 @@ theme: minos
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:DexterYan/Flight-Safety-Check-Blog.git
+  repo: root@www.safetyflights.com:flight-blog.git
   branch: [master]
   message: subdirectory of flight safety check
