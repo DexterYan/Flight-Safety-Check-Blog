@@ -71,4 +71,4 @@ deploy:
   type: git
   repo: root@www.safetyflights.com:flight-blog.git
   branch: [master]
-  message: subdirectory of flight safety check
+  message: hello
