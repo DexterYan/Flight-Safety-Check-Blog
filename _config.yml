@@ -3,17 +3,33 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: Flight Safety Check Blog
+subtitle: All your know about flight safety
+description: Flight Safety Check Blog
+author: Flight Safety Check
+language: en
 timezone:
 
+# Header
+logo_text: Flight Safety Check Blog
+menu:
+  Home: /
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Disqus
+disqus_shortname: flightsafetycheckblog
+
+
+# Miscellaneous
+google_analytics: UA-58447953-4
+favicon: /favicon.ico
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.safetyflights.com/blog
-root: /
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
