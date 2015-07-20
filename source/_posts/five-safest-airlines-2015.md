@@ -11,7 +11,7 @@ This year's top airline: Qantas Airways. The others are Qatar Airways, Emirates,
 
 ##1. Qantas Airways
 
-[](https://upload.wikimedia.org/wikipedia/commons/3/38/Qantas_A380-800_VH-OQD_SIN_2011-2-5.png)
+![Qantas Airways](https://upload.wikimedia.org/wikipedia/commons/3/38/Qantas_A380-800_VH-OQD_SIN_2011-2-5.png)
 
 * **Total Accidents: 0**  
 * _[Qantas Flight Accidents Summary Link](http://www.safetyflights.com/#!/search/airline/Qantas)_ 
@@ -20,7 +20,7 @@ This year's top airline: Qantas Airways. The others are Qatar Airways, Emirates,
 
 ##2. Qatar Airways
 
-![](http://www.lowcostholidays.com/blog/wp-content/uploads/2014/10/flightsinternationaluk.co_.uk_.jpg)
+![Qatar Airways](http://www.lowcostholidays.com/blog/wp-content/uploads/2014/10/flightsinternationaluk.co_.uk_.jpg)
 
 * **Total Accidents: 3** 
 *  _[Qatar Airways Flight Accidents Summary Link](http://www.safetyflights.com/#!/search/airline/Qatar%20Airways)_
@@ -29,7 +29,7 @@ This year's top airline: Qantas Airways. The others are Qatar Airways, Emirates,
 
 ##3. Emirates
 
-![](http://www.aspireaviation.com/wp-content/uploads/2015/04/Image-1-An-Emirates-Boeing-777-300-ER-aircraft.jpg)
+![Emirates](http://www.aspireaviation.com/wp-content/uploads/2015/04/Image-1-An-Emirates-Boeing-777-300-ER-aircraft.jpg)
 
 * **Total Accidents: 4** 
 *  _[Emirates Flight Accidents Summary Link](http://www.safetyflights.com/#!/search/airline/Emirates)_ 
@@ -37,7 +37,7 @@ This year's top airline: Qantas Airways. The others are Qatar Airways, Emirates,
 *  **Skytrax says: ** Emirates retained their stranglehold on the World's Best Inflight Entertainment awards at the 2015 Skytrax World Airline Awards in Paris. Finishing ahead of Qatar Airways in second place and Singapore Airlines in third, EK continues to have the edge over its closest global competitors despite continued hardware and programming improvements by carriers across the industry. Emirates secured the award for Best First Class Comfort Amenities ahead of local rival Etihad Airways and Singapore Airlines. At the top-end of the industry this is a very competitive category - particularly when assessing the quality levels between the top-5 airlines.
 
 ##4. Cathay Pacific Airways
-![](http://downloads.cathaypacific.com/cx/aboutus/sd/2012/images/home/img_banner_1.jpg)
+![Cathay Pacific Airways](http://downloads.cathaypacific.com/cx/aboutus/sd/2012/images/home/img_banner_1.jpg)
 
 * **Total Accidents: 8** 
 *  _[Cathay Pacific Airways Flight Accidents Summary Link](http://www.safetyflights.com/#!/search/airline/Cathay%20Pacific)_ 
@@ -45,7 +45,7 @@ This year's top airline: Qantas Airways. The others are Qatar Airways, Emirates,
 *  **Skytrax says: ** Cathay Pacific achieved success by winning the Best Airline Transpacific for the third time at the 2015 Skytrax World Airline Awards in Paris. This was the airlines third success in this category having previously triumphed in 2011 and 2013. South Korea's Asiana Airlines secured second position, with ANA All Nippon Airways achieving third place.
 
 ##5. Singapore Airlines
-![](http://flyawaysimulation.com/images/downloadshots/2146-sing-sdbzip-18-sin3.jpg)
+![Singapore Airlines](http://flyawaysimulation.com/images/downloadshots/2146-sing-sdbzip-18-sin3.jpg)
 
 * **Total Accidents: 10** 
 *  _[Singapore Airlines Flight Accidents Summary Link](http://www.safetyflights.com/#!/search/airline/Singapore%20Airlines)_ 
