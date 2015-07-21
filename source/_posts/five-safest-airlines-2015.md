@@ -6,7 +6,7 @@ tags: Travel, Flight, Safety, Dexter
 
 ## 5 Safest And Best Airlines In The World 
 If you are flying in 38,000 ft, what is you most concerned about. Drink, food or flight attendants, we are pretty sure you will just think one minute for these. So the most important thing when you are flying is flight safety. Only when flights have landed in ground, your beautiful trip can start. Today, _**[Safety Flight Check](http://www.safetyflights.com/) **_ will unveiled the world top 5 safest and best airlines. [Safety Flight Check](http://www.safetyflights.com/) is the world's best flight accidents seach engine, which has launched in this year. 
-
+<!-- more --> 
 This year's top airline: Qantas Airways. The others are Qatar Airways, Emirates, Cathay Pacific Airways and Singapore Airlines.
 
 ##1. Qantas Airways
@@ -54,7 +54,7 @@ This year's top airline: Qantas Airways. The others are Qatar Airways, Emirates,
 
 
 #####Download Our Flight Accidents App On Apple Store
-[![](http://www.safetyflights.com/images/ios-app.png)](https://itunes.apple.com/hk/app/flight-accidents/id998433297?mt=8&ign-mpt=uo%3D4)
+[![Flight Accidents App](http://www.safetyflights.com/images/ios-app.png)](https://itunes.apple.com/hk/app/flight-accidents/id998433297?mt=8&ign-mpt=uo%3D4)
 
 #####Follow Us In Facebook
 [Flight Safety Check Facebook Page](https://www.facebook.com/FlightSafetyIsWhatWeCare?fref=ts)
