@@ -3,15 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Flight Safety Check Blog
+title: Safe Flights Blog
 subtitle: All your know about flight safety
-description: Flight Safety Check Blog
-author: Flight Safety Check
+description: Safe Flights Blog
+author: Safe Flights
 language: en
 timezone:
 
 # Header
-logo_text: Flight Safety Check Blog
+logo_text: Safe Flights Blog
 menu:
   Home: /
 
