@@ -5,7 +5,7 @@ tags: Travel, Flight, Safety, Tao Yan, Dexter
 ![](https://www.nationalairlines.com/css/images/nationalairlines_3.jpg)
 
 ## 5 Safest And Best Airlines In The World 
-If you are flying at 38,000 ft high, what is you most concern about. Drink, food or flight attendants? Nuh, not those for sure. But are you afraid of falling from the sky, oh Yes! Only when flights have landed on solid ground, you can feel totally rest assured and have your wonderful trip started. Today, _**[Safety Flight Check](http://www.safetyflights.com/) **_ will unveiled the world top 5 safest and best airlines for you, dear travelers! Today, We, [Safety Flight Check](http://www.safetyflights.com/) is the world's best flight accidents search engine, we just launched in this year.
+If you are flying at 38,000 ft high, what is you most concern about. Drink, food or flight attendants? Nuh, not those for sure. But are you afraid of falling from the sky, oh Yes! Only when flights have landed on solid ground, you can feel totally rest assured and have your wonderful trip started. Today, _**[Safe Flights](http://www.safetyflights.com/) **_ will unveiled the world top 5 safest and best airlines for you, dear travelers! Today, We, [Safe Flights](http://www.safetyflights.com/) is the world's best flight accidents search engine, we just launched in this year.
 
 <!-- more --> 
 Ok, back to the topic, this year’s top airline goes to…..
