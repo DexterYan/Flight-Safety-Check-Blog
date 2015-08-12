@@ -14,7 +14,7 @@ On Aug 11th, A flight of [Hainan Airlines](http://www.safetyflights.com/#!/searc
 
 “I was thrown upwards and hit the ceiling before I had the time to fasten my seatbelt”, another passenger wrote.
 
-In this accident, the people who were not buckled up were injured. This experience is a perfect example of telling us that it is better to keep their seat belt fastend even when the seat belt sign is turned off.
+Since the injuries caused by many passengers were not buckled up, it is a perfect example of telling us that it is better to keep their seat belt fastend even when the seat belt sign is turned off.
 
 
 ## Keep Your Seat Belt Fastened
