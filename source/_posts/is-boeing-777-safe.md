@@ -28,7 +28,7 @@ According to a chart published by Boeing in its [airline accidents report](http:
 
 
 ##### Download Our Safe Flights  App On Apple Store
-For more information, You can download our app on App Store.  
+For more information, You can download our app on App Store. [Link](https://itunes.apple.com/hk/app/flight-accidents/id998433297?mt=8&ign-mpt=uo%3D4)
 [![Safe Flights App](http://www.safetyflights.com/images/ios-app.png)](https://itunes.apple.com/hk/app/flight-accidents/id998433297?mt=8&ign-mpt=uo%3D4)
 
 ##### Follow Us In Facebook

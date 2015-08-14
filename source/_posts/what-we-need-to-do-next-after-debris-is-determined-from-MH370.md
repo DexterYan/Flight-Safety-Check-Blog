@@ -15,7 +15,7 @@ In the statement, Malaysian Prime Minister said "Today, 515 days since the plane
 According to this map, we can find sea currents were pushing the wing part almost 4000 kilometres from previous seach area. It will become very hard for searching team to continue their work in previous area. Since there were no further wreckage found on the island, we can guess that the entire plane was submerged in the ocean. However, MH370 is an important alerm that make people and airline to think more about flight safety. In the MH370's accident, Malaysian Airline's pool management is the main cause. If we want less flight accidents appear in the furture, the only thing we need to do is spending more time and money on flight safety and improving management, not cheap ticket.
 
 ##### Download Our Safe Flights App On Apple Store
-For more Flight Safety information, You can download our app on App Store.
+For more information, You can download our app on App Store. [Link](https://itunes.apple.com/hk/app/flight-accidents/id998433297?mt=8&ign-mpt=uo%3D4)
 [![Safe Flights App](http://www.safetyflights.com/images/ios-app.png)](https://itunes.apple.com/hk/app/flight-accidents/id998433297?mt=8&ign-mpt=uo%3D4)
 
 
