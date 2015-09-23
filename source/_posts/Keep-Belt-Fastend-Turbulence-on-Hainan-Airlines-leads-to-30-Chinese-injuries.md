@@ -5,13 +5,12 @@ tags: Travel, Flight, Safety, Airbus, 320, Tao Yan
 
 ![HU7148 Photo: Thepaper.cn](http://www.safetyflights.com/images/flightBlog/20150811-wld-hainan-1.jpg)
 
-On Aug 11th, A flight of [Hainan Airlines](http://www.safetyflights.com/#!/search/airline/Hainan%20Airlines), HU7148, which departed from Chengdu, encountered huge jolts causing 30 Chinese passengers and crew members were injured. HU7148, a [Airbus A330-200](http://www.safetyflights.com/#!/search/aircraft/a320), was descending through about 4200 meters towards Beijing when it hit severe turbulence.
 
 On Aug 11th, A flight of [Hainan Airlines](http://www.safetyflights.com/#!/search/airline/Hainan%20Airlines), HU7148, a [Airbus A330-200](http://www.safetyflights.com/#!/search/aircraft/a320), encountered severe turbulence during the flight from Chengdu airport to Beijing, China, the plane was jolted twice and descending through about 4200 meters, The crew continued for a safe landing in Beijing about 17 minutes later, but the incident still caused total 30 Chinese passengers and crew members injured.
 
 <!-- more --> 
 ## Terrifying Experience
-![Damaged Cabin Photo: Weibo](http://avherald.com/img/hainan_a332_b-6133_beijing_150811_1.jpg)  
+![Damaged Cabin Photo: Weibo](http://www.safetyflights.com/images/flightBlog/U10856P1T1D32191918F23DT20150811184004.jpg)
 
 "It was the strongest shaking I have ever had in my life. I see people behind me having their heads knocked. The blood and sobs really scared me ", One passenger posted on weibo.
 
