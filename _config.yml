@@ -88,3 +88,8 @@ deploy:
   repo: root@www.safetyflights.com:flight-blog.git
   branch: [master]
   message: hello
+
+admin:
+  username: admin
+  password_hash: 1bbbb87b7e229886a15107f80f345ba1
+  secret: a secret something
