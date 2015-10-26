@@ -4,15 +4,17 @@ tags:
 categories: []
 date: 2015-09-24 12:57:00
 ---
-![Delta's Flight Safety Video](http://i.imgur.com/1E7Wzg5.jpg)
-Before takeoff, have you ever see most of passagers watching the flight safety video very carefully? I guess no. Because many flight safety video has the driest, most boring content that people thinks they have heard thousands of times. So you will see people prefer to choose reading, sleeping, or just looking outside. 
+![Delta's Flight Safety Video](http://media.bizj.us/view/img/6655602/screen-shot-2015-08-07-at-104340-am*750xx1163-654-55-0.png)
+Most of the flight safety videos are boring, let's just admit it...nobody could have the patience to watch the scripted and dull videos over and over again!
 
-However flight safety videos also contains important information that could save your life. Is any kind of flight safty video can hold your attention and tell you what you can do in an emergency. Delta tell you, they can!  
+But we need to be reminded by these important messages every time we are on a plane, for obvious reasons. So can these videos be better? can they just hold our attention a little longer and while we are concentrated, tell us what we can do in an emergency? Delta is here to tell you, they can!  
 
 <!-- more --> 
 # Delta's Flight Safety Video
 
-Delta makes flight safety video so cool. We can see a giant squirrel fitting a nut in the overhead bin, the creatures of Yo Gabba Gabba doing the Harlem Shake, and Moses parting the aisles. So funny!
+Delta makes the flight safety videos so interesting. We could see when the pretty flight attendant demostrating the safety rules, there are a lot of funny scenes appear on the screen, such as a giant squirrel(dressed up by a person) fitting a nut into the overhead bin, which is to remind you doing the same thing, or the Moses parting the aisles, which is also to remind you to sit down. So funny! So creative! So effective! And from our experiences, everybody is watching and laughing through the whole video, instead of just doing their own thing.
+
+Salute to Delta! You did a good job!
 
 {% youtube kfFHn6DxvEg %}
 

@@ -1,6 +1,8 @@
 title: Turbulence on Hainan Airlines leads to 30 Chinese Injuries
-date: 2015-08-17 12:58:30
-tags: Travel, Flight, Safety, Airbus, 320, Tao Yan
+tags:
+  - 'Travel, Flight, Safety, Airbus, 320, Tao Yan'
+categories: []
+date: 2015-08-17 12:58:00
 ---
 
 ![HU7148 Photo: Thepaper.cn](http://www.safetyflights.com/images/flightBlog/20150811-wld-hainan-1.jpg)
